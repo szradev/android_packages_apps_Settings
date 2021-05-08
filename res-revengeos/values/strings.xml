@@ -137,6 +137,9 @@
     <string name="aggressive_idle_summary">Reduce device wake ups and reduce the time required to enter idle state</string>
     <string name="aggressive_standby_title">Aggressive standby</string>
     <string name="aggressive_standby_summary">Restrict apps from running in background</string>
+    <string name="sensor_block_title">Block sensors</string>
+    <string name="sensor_block_summary">Block sensors for popular draining apps</string>
+
 
     <!-- Navbar length -->
     <string name="navbar_length">Gesture bar length</string>

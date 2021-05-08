@@ -41,6 +41,12 @@
         android:summary="@string/aggressive_standby_summary"
         android:defaultValue="true" />
 
+   <com.revengeos.settings.preference.SystemSettingSwitchPreference
+        android:key="sensor_block"
+        android:title="@string/sensor_block_title"
+        android:summary="@string/sensor_block_summary"
+        android:defaultValue="false" />
+
     <SwitchPreference
         android:key="smart_battery"
         android:title="@string/smart_battery_title"
